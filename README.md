@@ -3,3 +3,4 @@
 A small demo of how to merge conflicts come to be and how to deal with them
 
 # EoF
+  (ONE)  
